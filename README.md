@@ -27,7 +27,7 @@
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
 | 1  | **JPA 문제 제작** | JPA의 기본 개념과 동작 원리를 이해하기 위한 예제 문제 개발 | Java, JPA | 팀 프로젝트 (3명) | [GitHub 링크](https://github.com/fisa3-third/jpa_test) | 2024-08-02 |
-| 2  | **NeoMarket** | FISA 학생들을 위한 물건 대여 및 커뮤니티 플랫폼 개발 | Spring Boot, JPA, React | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/Neo-Market) | 2024-08-16 |
+| 2  | **NeoMarket** | ELK 스택을 활용한 경매/중고거래 웹 사이트 플랫폼 개발 | Spring Boot, Spring Data JPA, ELK, MYSQL, React.js | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/Neo-Market) | 2024-08-16 |
 
 ---
 
