@@ -16,7 +16,7 @@
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
-| 1  | **Linux_PAM - 비밀번호 설정 및 보안 강화** | PAM에서 사용자의 인증을 담당하는 모듈을 사용하여 비밀번호를 8자리 이상으로 규제 및 학습 | Linux, VirtualBox, PAM | 개인 프로젝트 | [GitHub 링크](https://github.com/gato-46/PAM) | 2024-09-19 |
+| 1  | **Linux_PAM - 비밀번호 설정 및 보안 강화** | PAM에서 사용자의 인증을 담당하는 모듈을 사용하여 비밀번호를 8자리 이상으로 규제 및 학습 | Linux, VirtualBox, PAM | 팀 프로젝트 (2명)| [GitHub 링크](https://github.com/gato-46/PAM) | 2024-09-19 |
 | 2  | **Crontab - LMS 접속 서비스** | Crontab을 이용한 우리FISA LMS 접속 및 퇴실 체크 서비스 | Linux, Crontab, PAM | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/gato-46/Crontab) | 2024-09-20 |
 | 3  | **Linux 평균 부하** | Linux 평균 부화에 대한 개념 이해와 예제를 통한 학습 | Linux, Stress | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/smartcow99/Average-Load-in-Linux) | 2024-09-23 |
 | 4  | **Shell Script 작성 및 활용 가이드** | 디렉토리 생성과 백업 Shell Script 예제를 통한 학습 | Linux, Shell Script | 개인 프로젝트 | [GitHub 링크](https://github.com/gato-46/ShellScript) | 2024-09-23 |
