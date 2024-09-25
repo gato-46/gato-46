@@ -22,7 +22,8 @@
 | 2  | **Crontab - LMS 접속 서비스** | Crontab을 이용한 우리FISA LMS 접속 및 퇴실 체크 서비스 | Linux, Crontab, PAM | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/gato-46/Crontab) | 2024-09-20 |
 | 3  | **Linux 평균 부하** | Linux 평균 부화에 대한 개념 이해와 예제를 통한 학습 | Linux, Stress | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/gato-46/Average-Load-in-Linux) | 2024-09-23 |
 | 4  | **Shell Script 작성 및 활용 가이드** | 디렉토리 생성과 백업 Shell Script 예제를 통한 학습 | Linux, Shell Script | 개인 프로젝트 | [GitHub 링크](https://github.com/gato-46/ShellScript) | 2024-09-23 |
-| 5  | **Docker Image 최적화** | Docker Image 최적화를 위한 여러가지 전략 공부 | Linux, Dokcer | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/gato-46/docker_image) | 2024-09-24 |
+| 5  | **Docker Image 최적화** | Docker Image 최적화를 위한 여러가지 전략 공부 | Linux, Dokcer, Bash Scripting | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/gato-46/docker_image) | 2024-09-24 |
+| 6  | **Docker Security Check Using Trivy** | 도커 컨테이너 이미지 취약점 분석 관련 학습 | Linux, Dokcer, Bash Scripting | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/smartcow99/docker-security-check-using-trivy) | 2024-09-25 |
 <br>
 
 ### ✨ 개발(BE/FE) 프로젝트 목록 ✨
