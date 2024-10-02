@@ -25,9 +25,10 @@
 | 5  | **Docker Image 최적화** | Docker Image 최적화를 위한 여러가지 전략 공부 | Linux, Dokcer, Bash Scripting | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/gato-46/docker_image) | 2024-09-24 |
 | 6  | **Docker Security Check Using Trivy** | 도커 컨테이너 이미지 취약점 분석 관련 학습 | Linux, Dokcer, Bash Scripting | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/smartcow99/docker-security-check-using-trivy) | 2024-09-25 |
 | 7  | **MySQL Data Dump** | docker-compose, 그리고 crontab을 사용하여 자동화된 방식으로 백업 및 복원 | Linux, Dokcer, Crontab | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/smartcow99/mysql-data-dump) | 2024-09-27 |
+| 8  | **Spring App Realease on k8s with NGINX** | Kubernetes에서 Spring 애플리케이션 NGINX와 함께 배포하기 | Spring, Docker, Kubernetes | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/gato-46/spring-app-on-k8s-with-nginx) | 2024-10-02 |
 <br>
 
-https://github.com/smartcow99/mysql-data-dump
+
 ### ✨ 개발(BE/FE) 프로젝트 목록 ✨
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
