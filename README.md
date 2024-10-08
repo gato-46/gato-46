@@ -26,7 +26,7 @@
 | 6  | **Docker Security Check Using Trivy** | 도커 컨테이너 이미지 취약점 분석 관련 학습 | Linux, Dokcer, Bash Scripting | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/smartcow99/docker-security-check-using-trivy) | 2024-09-25 |
 | 7  | **MySQL Data Dump** | docker-compose, 그리고 crontab을 사용하여 자동화된 방식으로 백업 및 복원 | Linux, Dokcer, Crontab | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/smartcow99/mysql-data-dump) | 2024-09-27 |
 | 8  | **Spring App Realease on k8s with NGINX** | Kubernetes에서 Spring 애플리케이션 NGINX와 함께 배포하기 | Spring, Docker, Kubernetes | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/gato-46/spring-app-on-k8s-with-nginx) | 2024-10-02 |
-| 9 | **Ubuntu-Stress-Test** | :star2: Spring Boot 애플리케이션 부하 테스트 가이드 | Linux, Springboot, ApacheBench  | 2명 | [GitHub](https://github.com/gato-46/ubuntu-stress-test) | *2024-10-08*  |
+| 9 | **Ubuntu-Stress-Test** | Spring Boot 애플리케이션 부하 테스트 가이드 | Linux, Springboot, ApacheBench  | 2명 | [GitHub](https://github.com/gato-46/ubuntu-stress-test) | 2024-10-08 |
 <br>
 
 
