@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF66FF&height=300&section=header&text=ByeongChanKwak&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=CC99FF&height=300&section=header&text=ByeongChanKwak&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=80)
 
 ## Hi there 👋
 I'm a dedicated learner on my journey to becoming a network and infrastructure engineer. Here on my GitHub, I share the projects and knowledge I've gained along the way. Thanks for stopping by!
@@ -48,7 +48,4 @@ I'm a dedicated learner on my journey to becoming a network and infrastructure e
   <img src="https://github-readme-stats.vercel.app/api?username=gato-46&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gato-46&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
 
